@@ -1,6 +1,6 @@
 # Hi there, I'm Airel Dave Pasco 👋
 
-I'm currently studying **Information Technology** at [Pamantasan ng Lungsod ng Muntinlupa](https://www.plm.edu.ph/). I consider myself a **jack of all trades** when it comes to tech, always eager to tackle new challenges and solve tech problems—that's my passion!
+I'm currently studying **Information Technology** at [Pamantasan ng Lungsod ng Muntinlupa](https://www.plmun.edu.ph/). I consider myself a **jack of all trades** when it comes to tech, always eager to tackle new challenges and solve tech problems—that's my passion!
 
 ## What I’m Currently Up To
 
